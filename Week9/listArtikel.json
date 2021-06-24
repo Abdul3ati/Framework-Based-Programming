@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "userID": 1,
+      "id": 1624394632753,
+      "title": "LC-24",
+      "body": "good moring\n"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

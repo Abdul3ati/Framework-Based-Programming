@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "userID": 1,
+      "id": 1622570788125,
+      "nim": "180823453",
+      "Name": "Mahasiswa 1",
+      "Address": "Jl. soekarno Hatta No. 9 Malang",
+      "HP": "081802023249",
+      "Angkatan": "2018",
+      "Status": "aktif"
+    },
+    {
+      "userID": 1,
+      "id": 1622570845131,
+      "nim": "140823453",
+      "Name": "Mahasiswa X",
+      "Address": "Jl. Menur No. 9 Malang",
+      "HP": "081802023523",
+      "Angkatan": "2014",
+      "Status": "lulus"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

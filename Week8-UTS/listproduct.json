@@ -1,0 +1,70 @@
+{"product" :
+    [
+    
+    {
+        "ID": 0,
+        "productName": "Samsung S 21",
+        "Harga": 18000000,
+        "Gambar": " http://www.simpleimageresizer.com/_uploads/photos/a9e772a0/download_100x100.png",
+        "Stok": 2
+    
+    },
+    {
+        "ID": 1,
+        "productName": "Samsung Note 20",
+        "Harga": 19000000,
+        "Gambar": "https://lh3.googleusercontent.com/BkXAo_bOl7_0QF3NYRyWVedvje_JlTzR_91UIm-JkndJaRNPuIJ3toW-BjBIMX3sv2IGBg=s85",
+        "Stok": 3
+    
+    },
+    {
+        "ID": 2,
+        "productName": "Oppo Find X 3 Pro",
+        "Harga": 17000000,
+        "Gambar": "http://www.simpleimageresizer.com/_uploads/photos/a9e772a0/download_2_100x100.png",
+        "Stok": 5
+    
+    },
+    {
+        "ID": 3,
+        "productName": "xiaomi Redmi Note 10",
+        "Harga": 600000,
+        "Gambar": "http://www.simpleimageresizer.com/_uploads/photos/a9e772a0/download_3_100x100.png",
+        "Stok": 6
+    
+    },
+    {
+        "ID": 4,
+        "productName": "huawei P40 Pro",
+        "Harga": 20000000,
+        "Gambar": "http://www.simpleimageresizer.com/_uploads/photos/a9e772a0/download_4_1_100x100.png",
+        "Stok": 7
+    
+    },
+    {
+        "ID": 5,
+        "productName": "Iphone XS Max",
+        "Harga": 8000000,
+        "Gambar": "http://www.simpleimageresizer.com/_uploads/photos/a9e772a0/download_5_100x100.png",
+        "Stok": 5
+    
+    },
+    {
+        "ID": 6,
+        "Nama product": "Iphone 11",
+        "Harga": 13000000,
+        "Gambar": "http://www.simpleimageresizer.com/_uploads/photos/a9e772a0/download1_100x100.png ",
+        "Stok": 3
+    
+    },
+    {
+        "ID": 7,
+        "productName": "Iphone 11 Pro Max",
+        "Harga": 21000000,
+        "Gambar": "http://www.simpleimageresizer.com/_uploads/photos/a9e772a0/download11_100x100.png ",
+        "Stok": 5
+    
+    }
+    
+    ]
+    }

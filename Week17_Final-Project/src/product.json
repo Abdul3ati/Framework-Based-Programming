@@ -1,0 +1,12 @@
+{
+    "products": [
+      {
+        "ProductID": 1,
+        "ProductName": "Mesin Cuci Samsung",
+        "ProductPrice": "200",
+        "ProductImg": "https://images.bisnis-cdn.com/thumb/posts/2019/02/05/885521/samsung-mesin-cuci.jpg?w=600&h=400"
+      }
+      
+
+    ]
+  }
